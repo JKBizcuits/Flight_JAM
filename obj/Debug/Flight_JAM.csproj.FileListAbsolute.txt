@@ -1,0 +1,6 @@
+D:\Jacob\source\repos\Flight_JAM\bin\Debug\Flight_JAM.exe.config
+D:\Jacob\source\repos\Flight_JAM\bin\Debug\Flight_JAM.exe
+D:\Jacob\source\repos\Flight_JAM\bin\Debug\Flight_JAM.pdb
+D:\Jacob\source\repos\Flight_JAM\obj\Debug\Flight_JAM.csprojAssemblyReference.cache
+D:\Jacob\source\repos\Flight_JAM\obj\Debug\Flight_JAM.exe
+D:\Jacob\source\repos\Flight_JAM\obj\Debug\Flight_JAM.pdb
