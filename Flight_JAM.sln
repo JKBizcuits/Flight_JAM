@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight_JAM", "Flight_JAM.csproj", "{229AB47A-5C70-4E89-9ABE-27FA7F127FAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight_JAM", "Flight_JAM.csproj", "{56ABD611-FA72-452C-9609-C06AED213B88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{229AB47A-5C70-4E89-9ABE-27FA7F127FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{229AB47A-5C70-4E89-9ABE-27FA7F127FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{229AB47A-5C70-4E89-9ABE-27FA7F127FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{229AB47A-5C70-4E89-9ABE-27FA7F127FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ABD611-FA72-452C-9609-C06AED213B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ABD611-FA72-452C-9609-C06AED213B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ABD611-FA72-452C-9609-C06AED213B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ABD611-FA72-452C-9609-C06AED213B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {18819BB6-1227-4D6C-BE27-0906373A091F}
+		SolutionGuid = {59A35EB2-47E3-4E68-A6D6-D54C5E66ED46}
 	EndGlobalSection
 EndGlobal

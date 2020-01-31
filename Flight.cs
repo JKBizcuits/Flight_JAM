@@ -82,14 +82,14 @@ namespace Flight_JAM
 		 * and distance between two city objects.
 		 * @return -String representing the flight details
 		 */
-		public string printFlightDetails()
+		public string PrintFlightDetails()
 		{
 
 			StringBuilder sb = new StringBuilder();
 
 			sb.Append(airLineName + " " + flightNumber + "\n");
 			sb.Append(originCity.GetName() + " to " + destinationCity.GetName() + "\n");
-			sb.Append("Distance: " + this.CalcDistanceToFly() + " miles.\n");
+			sb.Append("Distance: " + Math.Round(this.CalcDistanceToFly(), 3) + " miles.\n");
 
 			return sb.ToString();
 		}//end printFlightDetails
